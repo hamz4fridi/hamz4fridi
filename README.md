@@ -41,7 +41,7 @@ You can explore more of my projects in my repositories 👇
 ---
 
 ## 🤝 Let's Connect
-📫 **Email:** hamzamuhammad@example.com  
+📫 **Email:** [](http://hamzaafridi1only75@gmail.com)
 💼 **LinkedIn:** [linkedin.com/in/hamzamuhammad](https://linkedin.com/in/hamzamuhammad)  
 🐙 **GitHub:** [github.com/HamzaMuhammad](https://github.com/HamzaMuhammad)
 
