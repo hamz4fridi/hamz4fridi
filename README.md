@@ -43,7 +43,7 @@ You can explore more of my projects in my repositories 👇
 ## 🤝 Let's Connect
 
 📬 **Email:** [hamzaafridionly75@gmail.com](mailto:hamzaafridionly75@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/hamza-muhammad-](www.linkedin.com/in/hamza-muhammad-)  
+💼 **LinkedIn:** [linkedin.com/in/hamzamuhammad](www.linkedin.com/in/hamza-muhammad-)  
 👨‍💻 **GitHub:** [github.com/HamzaMuhammad](https://github.com/HamzaMuhammad)
 
 ---
