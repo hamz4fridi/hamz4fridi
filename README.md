@@ -12,7 +12,7 @@ approaches to real-world problems while continuously expanding my technical expe
 
 ---
 
-## Work Experience
+## 💻 Work Experience
 **INTERNSHIP – ISPR**
 • Gained practical exposure to a professional and structured working environment.
 • Assisted with day-to-day administrative and organizational activities.
