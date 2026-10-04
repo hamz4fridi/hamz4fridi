@@ -5,19 +5,21 @@
 ---
 
 ## 🧠 About Me
-I'm a passionate Data Science student with a strong foundation in **Python, Statistics, and Machine Learning**.  
-I enjoy turning raw data into meaningful insights and building intelligent solutions that solve real-world problems.
-
-I’m constantly learning and exploring new technologies in the fields of **AI, Data Analytics, and Deep Learning**.
+Data Science graduate with a strong interest in Artificial Intelligence, Machine Learning, and data-driven solutions.
+Experienced in Python, SQL, Power BI, data analysis, and AI technologies, with practical experience through academic
+projects and professional work as an AI Engineer. Motivated to develop intelligent systems and apply data-driven
+approaches to real-world problems while continuously expanding my technical expertise.**.
 
 ---
 
 ## 🛠️ Skills & Tools
-**Programming & Analysis:** Python, SQL, R  
-**Libraries & Frameworks:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras  
-**Data Visualization:** Power BI, Tableau, Matplotlib, Seaborn  
-**Databases:** MySQL, PostgreSQL  
-**Other Tools:** Git, Excel, Jupyter Notebook, VS Code  
+**Programming & Data Science**
+Python(Pandas,Numpy,Matplotlib,Seaborn) PyTorch,TensorFlow,Scikit-Learn SQL Power BI R Language 
+**AI & Machine Learning**
+Machine Learning Deep Learning Natural Language Processing(NLP) Data Preprocessing & Feature
+Engineering Exploratory Data Analysis 
+**Tools & Environment**
+Git & Github Google Cloud Google Colab Docker Visual Studio Code Microsoft Office LangChain n8n 
 
 ---
 
