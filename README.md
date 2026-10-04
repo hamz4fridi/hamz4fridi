@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hamza Muhammad
 
-🎓 **Data Science Student | Machine Learning Enthusiast | AI Learner**
+🎓 **Data Science Graduate | Machine Learning Enthusiast | AI Learner**
 
 ---
 
@@ -8,7 +8,37 @@
 Data Science graduate with a strong interest in Artificial Intelligence, Machine Learning, and data-driven solutions.
 Experienced in Python, SQL, Power BI, data analysis, and AI technologies, with practical experience through academic
 projects and professional work as an AI Engineer. Motivated to develop intelligent systems and apply data-driven
-approaches to real-world problems while continuously expanding my technical expertise.**.
+approaches to real-world problems while continuously expanding my technical expertise.
+
+---
+
+## Work Experience
+**INTERNSHIP – ISPR**
+• Gained practical exposure to a professional and structured working environment.
+• Assisted with day-to-day administrative and organizational activities.
+• Developed communication, teamwork, time-management, and interpersonal skills through practical experience.
+• Built professional connections and gained valuable insight into workplace procedures and responsibilities.
+**JUNIOR AI ENGINEER – ZIRIUM AI** 
+• Integrated LLMs and third-party APIs into automated workflows to streamline tasks that previously required manual
+processing.
+• Designed and developed end-to-end AI automation pipelines using n8n, covering data collection, processing,
+transformation, and automated delivery.
+• Built workflow automations that connected AI models, APIs, databases, and external services to improve operational
+efficiency.
+• Automated repetitive business processes by designing trigger-based and API-driven workflows, reducing manual
+intervention and improving consistency.
+• Worked with data transformation, API integration, prompt engineering, and workflow orchestration to develop
+practical AIpowered solutions.
+**AI ENGINEER – BLANCO HQ** 
+• Working as an AI Engineer at Blanco HQ, contributing to AI-driven product development and technical solutions.
+• Collaborating directly with clients to understand requirements, identify AI use cases, and translate ideas into technical
+solutions.
+• Researching and developing an AI-powered architecture solution aimed at providing an alternative to traditional tools
+such as Revit.
+ABOUT ME 
+EDUCATION AND TRAINING
+WORK EXPERIENCE
+• Exploring AI automation and intelligent design workflows to improve efficiency in architectural processes.
 
 ---
 
@@ -31,14 +61,6 @@ Here are a few highlights of my work:
 - 🏫 **School Management Database:** Designed and implemented a relational SQL database for student and staff management.  
 
 You can explore more of my projects in my repositories 👇
-
----
-
-## 🌱 Currently Learning
-- Advanced Machine Learning & Deep Learning  
-- MLOps and Model Deployment  
-- Data Warehousing and Big Data Technologies  
-- Freelancing with Data Science Skills  
 
 ---
 
